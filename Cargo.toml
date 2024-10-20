@@ -1,0 +1,11 @@
+[package]
+name = "wordle_solver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+rayon = "1.8.1"
+serde = "1.0"
+csv = "1.1"
+serde_derive = "1.0"
